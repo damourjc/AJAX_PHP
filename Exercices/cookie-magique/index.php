@@ -13,11 +13,19 @@
             Fabriquer un cookie
         </button>
 
+        <div id="compteur">
+            Cookies fabriqués : 0
+        </div>
+
         <div id="resultat">
 
             Cliquez sur le bouton !
 
         </div>
+
+        <h2>Historique</h2>
+
+        <div id="historique"></div>
 
         <script src="script.js"></script>
 
